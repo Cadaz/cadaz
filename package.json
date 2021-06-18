@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "node.js": "^0.0.1-security"
+  },
+  "name": "cadazjs",
+  "version": "1.0.0",
+  "description": "Discord Cadaz Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "casi_",
+  "license": "ISC",
+  "devDependencies": {}
+}
